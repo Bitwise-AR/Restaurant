@@ -20,10 +20,12 @@ The website is live at https://bitwise-ar.github.io/Restaurant/
 
 **OR**
 
- 1. **Clone the repository**:
+ **Clone the repository**:
+  ```bash
     git clone git@github.com:Bitwise-AR/Restaurant.git
+  ```
 
-2. **Open `index.html` in your browser** to view the website.
+**Open `index.html` in your browser** to view the website.
 
 ## 📜 License
 
